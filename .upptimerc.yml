@@ -4,14 +4,16 @@ repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
+  - name: Juxly.com
+    url: https://www.juxly.com
+  - name: Vault Production
+    url: https://vault.juxlyapps.com
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
   - name: Secret Site
     url: $SECRET_SITE
 
