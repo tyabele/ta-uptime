@@ -6,26 +6,20 @@ repo: upptime # Your Github repository name
 sites:
   - name: Juxly.com
     url: https://www.juxly.com
-  - name: Vault Production
-    url: https://vault.juxlyapps.com
   - name: l7 Bar
     url: https://www.petersonsl7bar.com/
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Vault
+    url: $SS_VAULT
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Tyler Abele - Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
   navbar:
